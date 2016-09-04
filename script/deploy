@@ -4,6 +4,6 @@
   cd ~/production/hello-jenkins
   git pull
   npm install --production
-  forever start app.js
+  forever restart app.js
 #  exit
 #EOF
